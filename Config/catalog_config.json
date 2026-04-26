@@ -1,0 +1,163 @@
+{
+    "//": "BR Item Shop Config",
+    "daily1": {
+        "itemGrants": ["AthenaDance:Character_ArcanaAgate_Retrac"],
+        "price": 0
+    },
+    "daily2": {
+        "itemGrants": ["AthenaDance:Character_BaskIsle_Retrac"],
+        "price": 0
+    },
+    "daily3": {
+        "itemGrants": ["AthenaDance:Character_BoldTouch_Retrac"],
+        "price": 0
+    },
+    "daily4": {
+        "itemGrants": ["AthenaDance:Character_DeepDive_Retrac"],
+        "price": 0
+    },
+    "daily5": {
+        "itemGrants": ["AthenaDance:EID_Whisk_Retrac"],
+        "price": 0
+    },
+    "featured1": {
+        "itemGrants": ["AthenaDance:EID_Telescope"],
+        "price": 2000
+    },
+    "featured2": {
+        "itemGrants": ["AthenaDance:EID_TeenSpirit_Retrac"],
+        "price": 2000
+    },
+    "featured3": {
+        "itemGrants": ["AthenaDance:EID_TangyRadishMagma_Retrac"],
+        "price": 2000
+    },
+    "featured4": {
+        "itemGrants": ["AthenaDance:EID_TangyRadishFlame_Retrac"],
+        "price": 2000
+    },
+    "featured5": {
+        "itemGrants": ["AthenaDance:EID_Tally_Retrac"],
+        "price": 2000
+    },
+    "featured6": {
+        "itemGrants": ["AthenaDance:EID_Tailor"],
+        "price": 2000
+    },
+    "featured7": {
+        "itemGrants": ["AthenaDance:EID_Streamline"],
+        "price": 2000
+    },
+    "featured8": {
+        "itemGrants": ["AthenaDance:EID_Soar"],
+        "price": 2000
+    },
+    "featured9": {
+        "itemGrants": ["AthenaDance:EID_Shades"],
+        "price": 2000
+    },
+    "featured10": {
+        "itemGrants": ["AthenaDance:EID_Seetinh_Retrac"],
+        "price": 2000
+    },
+    "featured11": {
+        "itemGrants": ["AthenaDance:EID_Scrolls"],
+        "price": 2000
+    },
+    "featured12": {
+        "itemGrants": ["AthenaDance:EID_RockClimb_Retrac"],
+        "price": 2000
+    },
+    "featured13": {
+        "itemGrants": ["AthenaDance:EID_Reverie_Sync_Retrac"],
+        "price": 2000
+    },
+    "featured14": {
+        "itemGrants": ["AthenaDance:EID_Reverie_Follower_Retrac"],
+        "price": 2000
+    },
+    "featured15": {
+        "itemGrants": ["AthenaDance:EID_PolkaSkate_Retrac"],
+        "price": 2000
+    },
+    "featured16": {
+        "itemGrants": ["AthenaDance:EID_PleasedPunch_Retrac"],
+        "price": 2000
+    },
+    "featured17": {
+        "itemGrants": ["AthenaDance:EID_PearPencil_Retrac"],
+        "price": 2000
+    },
+    "featured18": {
+        "itemGrants": ["AthenaDance:EID_PastelGlaze"],
+        "price": 2000
+    },
+    "featured19": {
+        "itemGrants": ["AthenaDance:EID_Memory_Retrac"],
+        "price": 2000
+    },
+    "featured20": {
+        "itemGrants": ["AthenaDance:EID_Meander_Retrac"],
+        "price": 2000
+    },
+    "featured21": {
+        "itemGrants": ["AthenaDance:EID_LowRider"],
+        "price": 2000
+    },
+    "featured22": {
+        "itemGrants": ["AthenaDance:EID_Limelight_Retrac"],
+        "price": 2000
+    },
+    "featured23": {
+        "itemGrants": ["AthenaDance:EID_BeatMachine_Retrac"],
+        "price": 2000
+    },
+    "featured23": {
+        "itemGrants": ["AthenaDance:EID_Asteroid_Retrac"],
+        "price": 2000
+    },
+    "featured24": {
+        "itemGrants": ["AthenaDance:EID_Bboomv1_Retrac"],
+        "price": 2000
+    },
+    "featured25": {
+        "itemGrants": ["AthenaDance:EID_BankNotes_Retrac"],
+        "price": 2000
+    },
+    "featured26": {
+        "itemGrants": ["AthenaDance:EID_Chilled_Retrac"],
+        "price": 2000
+    },
+    "featured27": {
+        "itemGrants": ["AthenaDance:EID_Crosswalk"],
+        "price": 2000
+    },
+    "featured28": {
+        "itemGrants": ["AthenaDance:EID_Enrapture"],
+        "price": 67
+    },
+    "featured29": {
+        "itemGrants": ["AthenaDance:EID_FatCats"],
+        "price": 67
+    },
+    "featured29": {
+        "itemGrants": ["AthenaDance:EID_GalaxyGirls_Retrac"],
+        "price": 67
+    },
+    "featured30": {
+        "itemGrants": ["AthenaDance:EID_Gracious"],
+        "price": 67
+    },
+    "featured31": {
+        "itemGrants": ["AthenaDance:EID_Harmony_Follower_Retrac"],
+        "price": 67
+    },
+    "featured32": {
+        "itemGrants": ["AthenaDance:EID_Harmony_Sync_Retrac"],
+        "price": 76
+    },
+    "featured33": {
+        "itemGrants": ["AthenaDance:EID_JadeTowel_Gloss"],
+        "price": 67
+    }
+}
